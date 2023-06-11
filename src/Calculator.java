@@ -16,6 +16,10 @@ public class Calculator {
         return a/b;
     }
 
+    public int square(int a, int b){
+        return 2*(a+b);
+    }
+
 
 
 
